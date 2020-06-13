@@ -28,11 +28,23 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 </p>
 
 <h3 align="center">Sponsor</h3>
-<p align="center">
-<a  href="https://mp.weixin.qq.com/s/li9_YXNVxan6Qgt3Q9FYqA">
-<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-7/WechatIMG1.png" style="margin: 0 auto;width:400px"/>
-</a >
-</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://mp.weixin.qq.com/s/li9_YXNVxan6Qgt3Q9FYqA">
+          <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-7/WechatIMG1.png" style="margin: 0 auto;width:400px" /></a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/yaonphy/Job-Hunt/blob/master/README.md" target="_blank">
+          <img src="https://6a6f-job-hunt-bvzy1-1259590017.tcb.qcloud.la/adForGithub/jobhunt-javaguide400.png" style="margin: 0 auto;width:400px" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ## 目录
 
@@ -109,7 +121,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 ### 容器
 
 1. **[Java容器常见面试题/知识点总结](docs/java/collection/Java集合框架常见面试题.md)**
-2. [ArrayList 源码](docs/java/collection/ArrayList.md)  、[LinkedList 源码](docs/java/collection/LinkedList.md)   、[HashMap(JDK1.8)源码](docs/java/collection/HashMap.md)  
+2. 源码分析：[ArrayList 源码](docs/java/collection/ArrayList.md)  、[LinkedList 源码](docs/java/collection/LinkedList.md)   、[HashMap(JDK1.8)源码](docs/java/collection/HashMap.md)  、[ConcurrentHashMap源码](docs/java/collection/ConcurrentHashMap.md)  
 
 ### 并发
 
@@ -123,7 +135,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 **必备知识点：**
 
 1. [并发容器总结](docs/java/Multithread/并发容器总结.md)
-2. **[Java线程池学习总结](./docs/java/Multithread/java线程池学习总结.md)**
+2. **线程池**：[Java线程池学习总结](./docs/java/Multithread/java线程池学习总结.md)、[拿来即用的线程池最佳实践](./docs/java/Multithread/best-practice-of-threadpool.md)
 3. [乐观锁与悲观锁](docs/essential-content-for-interview/面试必备之乐观锁与悲观锁.md)
 4. [JUC 中的 Atomic 原子类总结](docs/java/Multithread/Atomic.md)
 5. [AQS 原理以及 AQS 同步组件总结](docs/java/Multithread/AQS.md)
@@ -152,7 +164,6 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 
 1. [计算机网络常见面试题](docs/network/计算机网络.md)
 2. [计算机网络基础知识总结](docs/network/干货：计算机网络知识总结.md)
-3. [HTTPS中的TLS](docs/network/HTTPS中的TLS.md)
 
 ## 操作系统
 
@@ -219,6 +230,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 ### 必知
 
 1. **[RestFul API 简明教程](docs/system-design/restful-api.md)**
+2. **[因为命名被diss无数次。Guide简单聊聊编程最头疼的事情之一:命名](docs/system-design/naming.md)**
 
 ### 常用框架
 
@@ -418,6 +430,8 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 Markdown 格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
 
 利用 docsify 生成文档部署在 Github pages: [docsify 官网介绍](https://docsify.js.org/#/) ，另见[《Guide哥手把手教你搭建一个文档类型的网站!免费且高速！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486555&idx=2&sn=8486026ee9f9ba645ff0363df6036184&chksm=cea24390f9d5ca86ff4177c0aca5e719de17dc89e918212513ee661dd56f17ca8269f4a6e303&token=298703358&lang=zh_CN#rd) 。
+
+Logo下的小图标是使用[Shields.IO](https://shields.io/) 生成的。
 
 ### 关于转载
 
