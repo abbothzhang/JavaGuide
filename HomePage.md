@@ -1,16 +1,17 @@
-点击订阅[Java面试进阶指南](https://xiaozhuanlan.com/javainterview?rel=javaguide)(专为Java面试方向准备)。[为什么要弄这个专栏?](https://shimo.im/./9BJjNsNg7S4dCnz3/)
 
-<h1 align="center">Java 学习/面试指南</h1>
+
+<h1 align="center">Java 学习指南</h1>
 <p align="center">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
 	<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/logo - 副本.png" width=""/>
 </a>
 
+
 ## 目录
 
 - [Java](#java)
     - [基础](#基础)
-    - [容器](#容器)
+    - [集合](#集合)
     - [并发](#并发)
     - [JVM](#jvm)
     - [I/O](#io)
@@ -51,7 +52,7 @@
 * [Java 基础知识疑难点总结](java/Java疑难点.md)
 * [J2EE 基础知识回顾](java/J2EE基础知识.md)
 
-### 容器
+### 集合
 
 * [Java容器常见面试题/知识点总结](java/collection/Java集合框架常见面试题.md)
 * [ArrayList 源码学习](java/collection/ArrayList.md)  
