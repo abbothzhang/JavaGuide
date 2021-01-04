@@ -68,12 +68,12 @@
 
 ### 一些不错的博客/Github 推荐
 
-- SnailClimb 的 Github ：[https://github.com/Snailclimb](https://github.com/Snailclimb "https://github.com/Snailclimb") 。（自荐一波哈！主要专注在 Java 基础和进阶、Spring、Spiring Boot、Java 面试这方面。）
+- SnailClimb 的 Github ：[https://github.com/Snailclimb](https://github.com/Snailclimb "https://github.com/Snailclimb") 。（自荐一波哈！主要专注在 Java 基础和进阶、Spring、Spiring Boot、Java {ms学习}这方面。）
 - 徐靖峰个人博客 ：[https://www.cnkirito.moe/](https://www.cnkirito.moe/ "https://www.cnkirito.moe/")（探讨 Java 生态的知识点，内容覆盖分布式服务治理、微服务、性能调优、各类源码分析）
 - 田小波：[http://www.tianxiaobo.com/](http://www.tianxiaobo.com/ "http://www.tianxiaobo.com/") （Java 、Spring 、MyBatis 、Dubbo）
 - 周立的博客： [http://www.itmuch.com/](http://www.itmuch.com/ "http://www.itmuch.com/")（Spring Cloud、Docker、Kubernetes，及其相关生态的技术）
 - Hollis: [https://www.hollischuang.com/](https://www.hollischuang.com/ "https://www.hollischuang.com/") (Java 后端)
-- 方志朋的专栏 ： [https://www.fangzhipeng.com/](https://www.fangzhipeng.com/ "https://www.fangzhipeng.com/") （Java 面试 Java 并发 openresty kubernetes Docker 故事 )
+- 方志朋的专栏 ： [https://www.fangzhipeng.com/](https://www.fangzhipeng.com/ "https://www.fangzhipeng.com/") （Java {ms学习} Java 并发 openresty kubernetes Docker 故事 )
 - 纯洁的微笑 : [http://www.ityouknow.com/](http://www.ityouknow.com/ "http://www.ityouknow.com/") （Java、SpringBoot、Spring Cloud）
 - 芋道源码： [http://www.iocoder.cn/](http://www.iocoder.cn/ "http://www.iocoder.cn/") (专注源码)。
 - 欢迎自荐

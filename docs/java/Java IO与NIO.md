@@ -3,7 +3,7 @@
 - [IO流学习总结](#io流学习总结)
   - [一　Java IO，硬骨头也能变软](#一-java-io，硬骨头也能变软)
   - [二　java IO体系的学习总结](#二-java-io体系的学习总结)
-  - [三　Java IO面试题](#三-java-io面试题)
+  - [三　Java IO{ms学习}题](#三-java-io{ms学习}题)
 - [NIO与AIO学习总结](#nio与aio学习总结)
   - [一 Java NIO 概览](#一-java-nio-概览)
   - [二 Java NIO 之 Buffer\(缓冲区\)](#二-java-nio-之-buffer缓冲区)
@@ -47,7 +47,7 @@
    - **OutputStream/Writer**: 所有输出流的基类，前者是字节输出流，后者是字符输出流。
 3. **常用的io流的用法** 
 
-### [三　Java IO面试题](https://mp.weixin.qq.com/s?__biz=MzU4NDQ4MzU5OA==&mid=2247483985&idx=1&sn=38531c2cee7b87f125df7aef41637014&chksm=fd985430caefdd26b0506aa84fc26251877eccba24fac73169a4d6bd1eb5e3fbdf3c3b940261#rd)
+### [三　Java IO{ms学习}题](https://mp.weixin.qq.com/s?__biz=MzU4NDQ4MzU5OA==&mid=2247483985&idx=1&sn=38531c2cee7b87f125df7aef41637014&chksm=fd985430caefdd26b0506aa84fc26251877eccba24fac73169a4d6bd1eb5e3fbdf3c3b940261#rd)
 
 ## NIO与AIO学习总结
 
@@ -197,4 +197,4 @@ Java7中新增了AsynchronousFileChannel作为nio的一部分。AsynchronousFile
 AIO是异步IO的缩写，虽然NIO在网络操作中，提供了非阻塞的方法，但是NIO的IO行为还是同步的。对于NIO来说，我们的业务线程是在IO操作准备好时，得到通知，接着就由这个线程自行进行IO操作，IO操作本身是同步的。
 
 
-**欢迎关注我的微信公众号:"Java面试通关手册"（一个有温度的微信公众号，期待与你共同进步~~~坚持原创，分享美文，分享各种Java学习资源）：**
+**欢迎关注我的微信公众号:"Java{ms学习}通关手册"（一个有温度的微信公众号，期待与你共同进步~~~坚持原创，分享美文，分享各种Java学习资源）：**

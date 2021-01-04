@@ -1,7 +1,7 @@
 ![](http://my-blog-to-use.oss-cn-beijing.aliyuncs.com/18-9-10/56385654.jpg)
 ## 前言
 
-相信大家对 ZooKeeper 应该不算陌生。但是你真的了解 ZooKeeper 是个什么东西吗？如果别人/面试官让你给他讲讲  ZooKeeper 是个什么东西，你能回答到什么地步呢？
+相信大家对 ZooKeeper 应该不算陌生。但是你真的了解 ZooKeeper 是个什么东西吗？如果别人/{ms学习}官让你给他讲讲  ZooKeeper 是个什么东西，你能回答到什么地步呢？
 
 我本人曾经使用过 ZooKeeper 作为 Dubbo 的注册中心，另外在搭建 solr 集群的时候，我使用到了  ZooKeeper 作为 solr 集群的管理工具。前几天，总结项目经验的时候，我突然问自己 ZooKeeper 到底是个什么东西？想了半天，脑海中只是简单的能浮现出几句话：“①Zookeeper 可以被用作注册中心。 ②Zookeeper 是 Hadoop 生态系统的一员；③构建 Zookeeper 集群的时候，使用的服务器最好是奇数台。” 可见，我对于 Zookeeper 的理解仅仅是停留在了表面。
 

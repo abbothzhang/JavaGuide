@@ -31,9 +31,9 @@
     - [常用框架(Spring、Zookeeper ... )](#常用框架)
     - [数据通信(消息队列、Dubbo ... )](#数据通信)
     - [网站架构](#网站架构)
-- [面试指南](#面试指南)
-    - [备战面试](#备战面试)
-    - [常见面试题总结](#常见面试题总结)
+- [{ms学习}指南](#{ms学习}指南)
+    - [备战{ms学习}](#备战{ms学习})
+    - [常见mst总结](#常见mst总结)
     - [面经](#面经)
 - [工具](#工具)
     - [Git](#git)
@@ -54,17 +54,17 @@
 
 ### 集合
 
-* [Java容器常见面试题/知识点总结](java/collection/Java集合框架常见面试题.md)
+* [Java容器常见mst/知识点总结](java/collection/Java集合框架常见mst.md)
 * [ArrayList 源码学习](java/collection/ArrayList.md)  
 * [LinkedList 源码学习](java/collection/LinkedList.md)   
 * [HashMap(JDK1.8)源码学习](java/collection/HashMap.md)  
 
 ### 并发
 
-* [Java 并发基础常见面试题总结](java/Multithread/JavaConcurrencyBasicsCommonInterviewQuestionsSummary.md)
-* [Java 并发进阶常见面试题总结](java/Multithread/JavaConcurrencyAdvancedCommonInterviewQuestions.md)
+* [Java 并发基础常见mst总结](java/Multithread/JavaConcurrencyBasicsCommonInterviewQuestionsSummary.md)
+* [Java 并发进阶常见mst总结](java/Multithread/JavaConcurrencyAdvancedCommonInterviewQuestions.md)
 * [并发容器总结](java/Multithread/并发容器总结.md)
-* [乐观锁与悲观锁](essential-content-for-interview/面试必备之乐观锁与悲观锁.md)
+* [乐观锁与悲观锁](essential-content-for-interview/{ms学习}必备之乐观锁与悲观锁.md)
 * [JUC 中的 Atomic 原子类总结](java/Multithread/Atomic.md)
 * [AQS 原理以及 AQS 同步组件总结](java/Multithread/AQS.md)
 
@@ -92,7 +92,7 @@
 
 ## 网络
 
-* [计算机网络常见面试题](network/计算机网络.md)
+* [计算机网络常见mst](network/计算机网络.md)
 * [计算机网络基础知识总结](network/干货：计算机网络知识总结.md)
 * [HTTPS中的TLS](network/HTTPS中的TLS.md)
 
@@ -107,7 +107,7 @@
 
 ### 数据结构
 
-- [数据结构知识学习与面试](dataStructures-algorithms/数据结构.md)
+- [数据结构知识学习与{ms学习}](dataStructures-algorithms/数据结构.md)
 
 ### 算法
 
@@ -122,7 +122,7 @@
 
 ### MySQL
 
-* [MySQL 学习与面试](database/MySQL.md)
+* [MySQL 学习与{ms学习}](database/MySQL.md)
 * [一千行MySQL学习笔记](database/一千行MySQL命令.md)
 * [MySQL高性能优化规范建议](database/MySQL高性能优化规范建议.md)
 * [数据库索引总结](database/MySQL%20Index.md)
@@ -145,7 +145,7 @@
 
 #### Spring
 
-- [Spring 学习与面试](system-design/framework/spring/Spring.md)
+- [Spring 学习](system-design/framework/spring/Spring.md)
 - [Spring 常见问题总结](system-design/framework/spring/SpringInterviewQuestions.md)
 - [Spring中bean的作用域与生命周期](system-design/framework/spring/SpringBean.md)
 - [SpringMVC 工作原理详解](system-design/framework/spring/SpringMVC-Principle.md)
@@ -168,31 +168,31 @@
 
 - [一文读懂分布式应该学什么](system-design/website-architecture/分布式.md)
 - [8 张图读懂大型网站技术架构](system-design/website-architecture/8%20张图读懂大型网站技术架构.md)
-- [【面试精选】关于大型网站系统架构你不得不懂的10个问题](system-design/website-architecture/【面试精选】关于大型网站系统架构你不得不懂的10个问题.md)
+- [【{ms学习}精选】关于大型网站系统架构你不得不懂的10个问题](system-design/website-architecture/【{ms学习}精选】关于大型网站系统架构你不得不懂的10个问题.md)
 
-## 面试指南
+## {ms学习}指南
 
-### 备战面试
+### 备战{ms学习}
 
-* [【备战面试1】程序员的简历就该这样写](essential-content-for-interview/PreparingForInterview/程序员的简历之道.md)
-* [【备战面试2】初出茅庐的程序员该如何准备面试？](essential-content-for-interview/PreparingForInterview/interviewPrepare.md)
-* [【备战面试3】7个大部分程序员在面试前很关心的问题](essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md)
-* [【备战面试4】Github上开源的Java面试/学习相关的仓库推荐](essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md)
-* [【备战面试5】如果面试官问你“你有什么问题问我吗？”时，你该如何回答](essential-content-for-interview/PreparingForInterview/如果面试官问你“你有什么问题问我吗？”时，你该如何回答.md)
-* [【备战面试6】美团面试常见问题总结（附详解答案）](essential-content-for-interview/PreparingForInterview/美团面试常见问题总结.md)
+* [【备战{ms学习}1】程序员的简历就该这样写](essential-content-for-interview/PreparingForInterview/程序员的简历之道.md)
+* [【备战{ms学习}2】初出茅庐的程序员该如何准备{ms学习}？](essential-content-for-interview/PreparingForInterview/interviewPrepare.md)
+* [【备战{ms学习}3】7个大部分程序员在{ms学习}前很关心的问题](essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md)
+* [【备战{ms学习}4】Github上开源的Java{ms学习}/学习相关的仓库推荐](essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md)
+* [【备战{ms学习}5】如果{ms学习}官问你“你有什么问题问我吗？”时，你该如何回答](essential-content-for-interview/PreparingForInterview/如果{ms学习}官问你“你有什么问题问我吗？”时，你该如何回答.md)
+* [【备战{ms学习}6】美团{ms学习}常见问题总结（附详解答案）](essential-content-for-interview/PreparingForInterview/美团{ms学习}常见问题总结.md)
 
-### 常见面试题总结
+### 常见mst总结
 
 * [第一周（2018-8-7）](essential-content-for-interview/MostCommonJavaInterviewQuestions/第一周（2018-8-7）.md) (为什么 Java 中只有值传递、==与equals、 hashCode与equals)
 * [第二周（2018-8-13）](essential-content-for-interview/MostCommonJavaInterviewQuestions/第二周(2018-8-13).md)(String和StringBuffer、StringBuilder的区别是什么？String为什么是不可变的？、什么是反射机制？反射机制的应用场景有哪些？......)
-* [第三周（2018-08-22）](java/collection/Java集合框架常见面试题.md) （Arraylist 与 LinkedList 异同、ArrayList 与 Vector 区别、HashMap的底层实现、HashMap 和 Hashtable 的区别、HashMap 的长度为什么是2的幂次方、HashSet 和 HashMap 区别、ConcurrentHashMap 和 Hashtable 的区别、ConcurrentHashMap线程安全的具体实现方式/底层具体实现、集合框架底层数据结构总结）
-* [第四周(2018-8-30).md](essential-content-for-interview/MostCommonJavaInterviewQuestions/第四周(2018-8-30).md) （主要内容是几道面试常问的多线程基础题。）
+* [第三周（2018-08-22）](java/collection/Java集合框架常见mst.md) （Arraylist 与 LinkedList 异同、ArrayList 与 Vector 区别、HashMap的底层实现、HashMap 和 Hashtable 的区别、HashMap 的长度为什么是2的幂次方、HashSet 和 HashMap 区别、ConcurrentHashMap 和 Hashtable 的区别、ConcurrentHashMap线程安全的具体实现方式/底层具体实现、集合框架底层数据结构总结）
+* [第四周(2018-8-30).md](essential-content-for-interview/MostCommonJavaInterviewQuestions/第四周(2018-8-30).md) （主要内容是几道{ms学习}常问的多线程基础题。）
 
-### 面经
+### 经
 
 - [5面阿里,终获offer(2018年秋招)](essential-content-for-interview/BATJrealInterviewExperience/5面阿里,终获offer.md)
 - [蚂蚁金服2019实习生面经总结(已拿口头offer)](essential-content-for-interview/BATJrealInterviewExperience/蚂蚁金服实习生面经总结(已拿口头offer).md)
-- [2019年蚂蚁金服、头条、拼多多的面试总结](essential-content-for-interview/BATJrealInterviewExperience/2019alipay-pinduoduo-toutiao.md)
+- [2019年蚂蚁金服、头条、拼多多的{ms学习}总结](essential-content-for-interview/BATJrealInterviewExperience/2019alipay-pinduoduo-toutiao.md)
 
 ## 工具
 
@@ -229,7 +229,7 @@
 ## 公众号
 
 - 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
-- 由本文档衍生的专为面试而生的《Java面试突击》V2.0 PDF 版本公众号后台回复 **"Java面试突击"** 即可免费领取！
+- 由本文档衍生的专为{ms学习}而生的《Java{ms学习}突击》V2.0 PDF 版本公众号后台回复 **"Java{ms学习}突击"** 即可免费领取！
 - 一些Java工程师常用学习资源公众号后台回复关键字 **“1”** 即可免费无套路获取。 
 
 <p align="center">

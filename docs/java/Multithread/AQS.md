@@ -1,4 +1,4 @@
-点击关注[公众号](#公众号 "公众号")及时获取笔主最新更新文章，并可免费领取本文档配套的《Java 面试突击》以及 Java 工程师必备学习资源。
+点击关注[公众号](#公众号 "公众号")及时获取笔主最新更新文章，并可免费领取本文档配套的《Java {ms学习}突击》以及 Java 工程师必备学习资源。
 
 <!-- TOC -->
 
@@ -12,7 +12,7 @@
     - [4.1 CountDownLatch 的三种典型用法](#41-countdownlatch-的三种典型用法)
     - [4.2 CountDownLatch 的使用示例](#42-countdownlatch-的使用示例)
     - [4.3 CountDownLatch 的不足](#43-countdownlatch-的不足)
-    - [4.4 CountDownLatch 常见面试题](#44-countdownlatch-相常见面试题)
+    - [4.4 CountDownLatch 常见{ms学习}题](#44-countdownlatch-相常见{ms学习}题)
 - [5 CyclicBarrier(循环栅栏)](#5-cyclicbarrier循环栅栏)
     - [5.1 CyclicBarrier 的应用场景](#51-cyclicbarrier-的应用场景)
     - [5.2 CyclicBarrier 的使用示例](#52-cyclicbarrier-的使用示例)
@@ -36,7 +36,7 @@ AQS 是一个用来构建锁和同步器的框架，使用 AQS 能简单且高�
 
 ### 2 AQS 原理
 
-> 在面试中被问到并发知识的时候，大多都会被问到“请你说一下自己对于 AQS 原理的理解”。下面给大家一个示例供大家参考，面试不是背题，大家一定要加入自己的思想，即使加入不了自己的思想也要保证自己能够通俗的讲出来而不是背出来。
+> 在{ms学习}中被问到并发知识的时候，大多都会被问到“请你说一下自己对于 AQS 原理的理解”。下面给大家一个示例供大家参考，{ms学习}不是背题，大家一定要加入自己的思想，即使加入不了自己的思想也要保证自己能够通俗的讲出来而不是背出来。
 
 下面大部分内容其实在 AQS 类注释上已经给出了，不过是英语看着比较吃力一点，感兴趣的话可以看看源码。
 
@@ -323,7 +323,7 @@ Semaphore 有两种模式，公平模式和非公平模式。
 
 ### 4 CountDownLatch （倒计时器）
 
-CountDownLatch允许 count 个线程阻塞在一个地方，直至所有线程的任务都执行完毕。在 Java 并发中，countdownlatch 的概念是一个常见的面试题，所以一定要确保你很好的理解了它。
+CountDownLatch允许 count 个线程阻塞在一个地方，直至所有线程的任务都执行完毕。在 Java 并发中，countdownlatch 的概念是一个常见的{ms学习}题，所以一定要确保你很好的理解了它。
 
 CountDownLatch是共享锁的一种实现,它默认构造 AQS 的 state 值为 count。当线程使用countDown方法时,其实使用了`tryReleaseShared`方法以CAS的操作来减少state,直至state为0就代表所有的线程都调用了countDown方法。当调用await方法的时候，如果state不为0，就代表仍然有线程没有调用countDown方法，那么就把已经调用过countDown的线程都放入阻塞队列Park,并自旋CAS判断state == 0，直至最后一个线程调用了countDown，使得state == 0，于是阻塞的线程便判断成功，全部往下执行。
 
@@ -399,7 +399,7 @@ for (int i = 0; i < threadCount-1; i++) {
 
 CountDownLatch 是一次性的，计数器的值只能在构造方法中初始化一次，之后没有任何机制再次对其设置值，当 CountDownLatch 使用完毕后，它不能再次被使用。
 
-#### 4.4 CountDownLatch 相常见面试题
+#### 4.4 CountDownLatch 相常见{ms学习}题
 
 解释一下 CountDownLatch 概念？
 
@@ -721,7 +721,7 @@ ReentrantLock 和 synchronized 的区别在上面已经讲过了这里就不多�
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
 
-**《Java 面试突击》:** 由本文档衍生的专为面试而生的《Java 面试突击》V2.0 PDF 版本[公众号](#公众号 "公众号")后台回复 **"面试突击"** 即可免费领取！
+**《Java {ms学习}突击》:** 由本文档衍生的专为{ms学习}而生的《Java {ms学习}突击》V2.0 PDF 版本[公众号](#公众号 "公众号")后台回复 **"{ms学习}突击"** 即可免费领取！
 
 **Java 工程师必备学习资源:** 一些 Java 工程师常用学习资源公众号后台回复关键字 **“1”** 即可免费无套路获取。
 

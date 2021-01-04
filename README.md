@@ -1,15 +1,15 @@
 > JavaGuide 的Star数量虽然比较多，但是它的价值和含金量一定是不能和 Dubbo、Nacos这些优秀的国产开源项目比的。希望国内可以出更多优秀的开源项目！
 >
-> 另外，希望大家对面试不要抱有侥幸的心理，打铁还需自身硬！  我希望这个文档是为你学习  Java 指明方向，而不是用来应付面试用的。加油！奥利给！
+> 另外，希望大家对{ms学习}不要抱有侥幸的心理，打铁还需自身硬！  我希望这个文档是为你学习  Java 指明方向，而不是用来应付{ms学习}用的。加油！奥利给！
 
 **开始阅读之前必看** ：
 
-1. [完结撒花！JavaGuide面试突击版来啦！](./docs/javaguide面试突击版.md)
+1. [完结撒花！JavaGuide{ms学习}突击版来啦！](./docs/javaguide{ms学习}突击版.md)
 2. [JavaGuide重大更新记录](./docs/update-history.md)
 
 更多原创内容和干货分享：
 
-1. [公众号—JavaGuide](#公众号) ： 最新原创文章+免费领取本文档配套的《Java面试突击》以及Java工程师必备学习资源）
+1. [公众号—JavaGuide](#公众号) ： 最新原创文章+免费领取本文档配套的《Java{ms学习}突击》以及Java工程师必备学习资源）
 
 Github用户如果访问速度缓慢的话，可以转移到[码云](https://gitee.com/SnailClimb/JavaGuide )查看，或者[在线阅读](https://snailclimb.gitee.io/javaguide )。
 
@@ -22,9 +22,9 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 <p align="center">
   <a href="https://snailclimb.gitee.io/javaguide"><img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaGuide-lightgrey.svg" alt="公众号"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/PDF-Java面试突击-important.svg" alt="公众号"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/PDF-Java{ms学习}突击-important.svg" alt="公众号"></a>
   <a href="#投稿"><img src="https://img.shields.io/badge/support-投稿-critical.svg" alt="投稿"></a>
-  <a href="https://xiaozhuanlan.com/javainterview?rel=javaguide"><img src="https://img.shields.io/badge/Java-面试指南-important" alt="投稿"></a>
+  <a href="https://xiaozhuanlan.com/javainterview?rel=javaguide"><img src="https://img.shields.io/badge/Java-{ms学习}指南-important" alt="投稿"></a>
 </p>
 
 <h3 align="center">Sponsor</h3>
@@ -89,7 +89,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 - [必会工具](#必会工具)
     - [Git](#git)
     - [Docker](#docker)
-- [面试指南](#面试指南)
+- [{ms学习}指南](#{ms学习}指南)
 - [Java学习常见问题汇总](#java学习常见问题汇总)
 - [资源](#资源)
     - [Java程序员必备书单](#java程序员必备书单)
@@ -120,23 +120,23 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 
 ### 容器
 
-1. **[Java容器常见面试题/知识点总结](docs/java/collection/Java集合框架常见面试题.md)**
+1. **[Java容器常见{ms学习}题/知识点总结](docs/java/collection/Java集合框架常见{ms学习}题.md)**
 2. 源码分析：[ArrayList 源码](docs/java/collection/ArrayList.md)  、[LinkedList 源码](docs/java/collection/LinkedList.md)   、[HashMap(JDK1.8)源码](docs/java/collection/HashMap.md)  、[ConcurrentHashMap源码](docs/java/collection/ConcurrentHashMap.md)  
 
 ### 并发
 
 **[多线程学习指南](./docs/java/Multithread/多线程学习指南.md)**
 
-**面试题总结：**
+**{ms学习}题总结：**
 
-1. **[Java 并发基础常见面试题总结](docs/java/Multithread/JavaConcurrencyBasicsCommonInterviewQuestionsSummary.md)**
-2. **[Java 并发进阶常见面试题总结](docs/java/Multithread/JavaConcurrencyAdvancedCommonInterviewQuestions.md)**
+1. **[Java 并发基础常见{ms学习}题总结](docs/java/Multithread/JavaConcurrencyBasicsCommonInterviewQuestionsSummary.md)**
+2. **[Java 并发进阶常见{ms学习}题总结](docs/java/Multithread/JavaConcurrencyAdvancedCommonInterviewQuestions.md)**
 
 **必备知识点：**
 
 1. [并发容器总结](docs/java/Multithread/并发容器总结.md)
 2. **线程池**：[Java线程池学习总结](./docs/java/Multithread/java线程池学习总结.md)、[拿来即用的线程池最佳实践](./docs/java/Multithread/best-practice-of-threadpool.md)
-3. [乐观锁与悲观锁](docs/essential-content-for-interview/面试必备之乐观锁与悲观锁.md)
+3. [乐观锁与悲观锁](docs/essential-content-for-interview/{ms学习}必备之乐观锁与悲观锁.md)
 4. [JUC 中的 Atomic 原子类总结](docs/java/Multithread/Atomic.md)
 5. [AQS 原理以及 AQS 同步组件总结](docs/java/Multithread/AQS.md)
 
@@ -162,7 +162,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 
 ## 网络
 
-1. [计算机网络常见面试题](docs/network/计算机网络.md)
+1. [计算机网络常见{ms学习}题](docs/network/计算机网络.md)
 2. [计算机网络基础知识总结](docs/network/干货：计算机网络知识总结.md)
 
 ## 操作系统
@@ -180,7 +180,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 ### 数据结构
 
 - [不了解布隆过滤器？一文给你整的明明白白！](docs/dataStructures-algorithms/data-structure/bloom-filter.md)
-- [数据结构知识学习与面试](docs/dataStructures-algorithms/数据结构.md)
+- [数据结构知识学习与{ms学习}](docs/dataStructures-algorithms/数据结构.md)
 
 ### 算法
 
@@ -237,7 +237,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 #### Spring/SpringBoot
 
 1. **[Spring 常见问题总结](docs/system-design/framework/spring/SpringInterviewQuestions.md)**
-3. **[SpringBoot 指南/常见面试题总结](https://github.com/Snailclimb/springboot-guide)**
+3. **[SpringBoot 指南/常见{ms学习}题总结](https://github.com/Snailclimb/springboot-guide)**
 3. **[Spring/Spring常用注解总结！安排！](./docs/system-design/framework/spring/spring-annotations.md)**
 4. **[Spring事务总结](docs/system-design/framework/spring/spring-transaction.md)**
 5. [Spring IoC 和 AOP详解](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486938&idx=1&sn=c99ef0233f39a5ffc1b98c81e02dfcd4&chksm=cea24211f9d5cb07fa901183ba4d96187820713a72387788408040822ffb2ed575d28e953ce7&token=1666190828&lang=zh_CN#rd)
@@ -247,7 +247,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 
 #### MyBatis
 
-- [MyBatis常见面试题总结](docs/system-design/framework/mybatis/mybatis-interview.md)
+- [MyBatis常见{ms学习}题总结](docs/system-design/framework/mybatis/mybatis-interview.md)
 
 ### 认证授权
 
@@ -295,7 +295,7 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 **Kafka:**
 
 1. **[Kafka 入门+SpringBoot整合Kafka系列](https://github.com/Snailclimb/springboot-kafka)**
-2. **[Kafka 常见面试题总结](docs/system-design/data-communication/kafka-inverview.md)**
+2. **[Kafka 常见{ms学习}题总结](docs/system-design/data-communication/kafka-inverview.md)**
 3. [【加餐】Kafka入门看这一篇就够了](docs/system-design/data-communication/Kafka入门看这一篇就够了.md)
 
 #### API 网关
@@ -371,17 +371,17 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 
 - [【原创】如何使用云服务器？希望这篇文章能够对你有帮助！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485738&idx=1&sn=f97e91a50e444944076c30b0717b303a&chksm=cea246e1f9d5cff73faf6a778b147ea85162d1f3ed55ca90473c6ebae1e2c4d13e89282aeb24&token=406194678&lang=zh_CN#rd)
 
-## 面试指南
+## {ms学习}指南
 
-> 这部分很多内容比如大厂面经、真实面经分析被移除，详见[完结撒花！JavaGuide面试突击版来啦！](./docs/javaguide面试突击版.md)。
+> 这部分很多内容比如大厂面经、真实面经分析被移除，详见[完结撒花！JavaGuide{ms学习}突击版来啦！](./docs/javaguide{ms学习}突击版.md)。
 
-1. **[【备战面试1】程序员的简历就该这样写](docs/essential-content-for-interview/PreparingForInterview/程序员的简历之道.md)**
-2. **[【备战面试2】初出茅庐的程序员该如何准备面试？](docs/essential-content-for-interview/PreparingForInterview/interviewPrepare.md)**
-3. **[【备战面试3】7个大部分程序员在面试前很关心的问题](docs/essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md)**
-4. **[【备战面试4】Github上开源的Java面试/学习相关的仓库推荐](docs/essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md)**
-5. **[【备战面试5】如果面试官问你“你有什么问题问我吗？”时，你该如何回答](docs/essential-content-for-interview/PreparingForInterview/面试官-你有什么问题要问我.md)**
-6. [【备战面试6】应届生面试最爱问的几道 Java 基础问题](docs/essential-content-for-interview/PreparingForInterview/应届生面试最爱问的几道Java基础问题.md)
-7. **[【备战面试6】美团面试常见问题总结(附详解答案)](docs/essential-content-for-interview/PreparingForInterview/美团面试常见问题总结.md)**
+1. **[【备战{ms学习}1】程序员的简历就该这样写](docs/essential-content-for-interview/PreparingForInterview/程序员的简历之道.md)**
+2. **[【备战{ms学习}2】初出茅庐的程序员该如何准备{ms学习}？](docs/essential-content-for-interview/PreparingForInterview/interviewPrepare.md)**
+3. **[【备战{ms学习}3】7个大部分程序员在{ms学习}前很关心的问题](docs/essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md)**
+4. **[【备战{ms学习}4】Github上开源的Java{ms学习}/学习相关的仓库推荐](docs/essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md)**
+5. **[【备战{ms学习}5】如果{ms学习}官问你“你有什么问题问我吗？”时，你该如何回答](docs/essential-content-for-interview/PreparingForInterview/{ms学习}官-你有什么问题要问我.md)**
+6. [【备战{ms学习}6】应届生{ms学习}最爱问的几道 Java 基础问题](docs/essential-content-for-interview/PreparingForInterview/应届生{ms学习}最爱问的几道Java基础问题.md)
+7. **[【备战{ms学习}6】美团{ms学习}常见问题总结(附详解答案)](docs/essential-content-for-interview/PreparingForInterview/美团{ms学习}常见问题总结.md)**
 
 ## Java学习常见问题汇总
 
@@ -421,11 +421,11 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 
 ### JavaGuide介绍
 
-开源 JavaGuide 初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来帮助一些在学习 Java 或者面试过程中遇到问题的小伙伴。
+开源 JavaGuide 初始想法源于自己的个人那一段比较迷茫的学习经历。主要目的是为了通过这个开源平台来帮助一些在学习 Java 或者{ms学习}过程中遇到问题的小伙伴。
 
 *  **对于 Java 初学者来说：** 本文档倾向于给你提供一个比较详细的学习路径，让你对于Java整体的知识体系有一个初步认识。另外，本文的一些文章
 也是你学习和复习 Java 知识不错的实践；
-*  **对于非 Java 初学者来说：** 本文档更适合回顾知识，准备面试，搞清面试应该把重心放在那些问题上。要搞清楚这个道理：提前知道那些面试常见，不是为了背下来应付面试，而是为了让你可以更有针对的学习重点。
+*  **对于非 Java 初学者来说：** 本文档更适合回顾知识，准备{ms学习}，搞清{ms学习}应该把重心放在那些问题上。要搞清楚这个道理：提前知道那些{ms学习}常见，不是为了背下来应付{ms学习}，而是为了让你可以更有针对的学习重点。
 
 Markdown 格式参考：[Github Markdown格式](https://guides.github.com/features/mastering-markdown/)，表情素材来自：[EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)。
 
@@ -506,7 +506,7 @@ Logo下的小图标是使用[Shields.IO](https://shields.io/) 生成的。
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
 
-**《Java面试突击》:** 由本文档衍生的专为面试而生的《Java面试突击》V2.0 PDF 版本[公众号](#公众号)后台回复 **"Java面试突击"** 即可免费领取！
+**《Java{ms学习}突击》:** 由本文档衍生的专为{ms学习}而生的《Java{ms学习}突击》V2.0 PDF 版本[公众号](#公众号)后台回复 **"Java{ms学习}突击"** 即可免费领取！
 
 **Java工程师必备学习资源:** 一些Java工程师常用学习资源公众号后台回复关键字 **“1”** 即可免费无套路获取。 
 

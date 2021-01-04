@@ -299,7 +299,7 @@ CPU 密集型简单理解就是利用 CPU 计算能力的任务比如你在内�
 
 ![动态配置线程池参数最终效果](https://imgkr.cn-bj.ufileos.com/19a0255a-6ef3-4835-98d1-a839d1983332.png)
 
-还没看够？推荐 why神的[《如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答。》](https://mp.weixin.qq.com/s/9HLuPcoWmTqAeFKa1kj-_A)这篇文章，深度剖析，很不错哦！
+还没看够？推荐 why神的[《如何设置线程池参数？美团给出了一个让{ms学习}官虎躯一震的回答。》](https://mp.weixin.qq.com/s/9HLuPcoWmTqAeFKa1kj-_A)这篇文章，深度剖析，很不错哦！
 
 
 

@@ -1,4 +1,4 @@
-昨天我整理了公众号历史所有和面试相关的我觉得还不错的文章：[整理了一些有助于你拿Offer的文章](<https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485434&idx=1&sn=f6bdf19d2594bf719e149e48d1384340&chksm=cea24831f9d5c1278617d347238f65f0481f36291675f05fabb382b69ea0ff3adae7ee6e6524&token=1452779379&lang=zh_CN#rd>) 。今天分享一下最近逛Github看到了一些我觉得对于Java面试以及学习有帮助的仓库，这些仓库涉及Java核心知识点整理、Java常见面试题、算法、基础知识点比如网络和操作系统等等。
+昨天我整理了公众号历史所有和{ms学习}相关的我觉得还不错的文章：[整理了一些有助于你拿Offer的文章](<https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485434&idx=1&sn=f6bdf19d2594bf719e149e48d1384340&chksm=cea24831f9d5c1278617d347238f65f0481f36291675f05fabb382b69ea0ff3adae7ee6e6524&token=1452779379&lang=zh_CN#rd>) 。今天分享一下最近逛Github看到了一些我觉得对于Java{ms学习}以及学习有帮助的仓库，这些仓库涉及Java核心知识点整理、Java常见{ms学习}题、算法、基础知识点比如网络和操作系统等等。
 
 ## 知识点相关
 
@@ -6,13 +6,13 @@
 
 - Github地址： [https://github.com/Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
 - star: 64.0k
-- 介绍: 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+- 介绍: 【Java学习+{ms学习}指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 
 ### 2.CS-Notes
 
 - Github 地址：<https://github.com/CyC2018/CS-Notes>
 - Star:  68.3k 
-- 介绍: 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计。
+- 介绍: 技术{ms学习}必备基础知识、Leetcode 题解、后端{ms学习}、Java {ms学习}、春招、秋招、操作系统、计算机网络、系统设计。
 
 ### 3. advanced-java
 
@@ -48,7 +48,7 @@
 
 - Github地址： [https://github.com/frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)
 - star: 4.0k
-- 介绍: fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试。
+- 介绍: fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/{ms学习}。
 
 ### 9.3y
 
@@ -66,7 +66,7 @@
 
 - Github地址:  [https://github.com/kdn251/interviews/blob/master/README-zh-cn.md](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
 - star: 35.3k
-- 介绍: 软件工程技术面试个人指南（国外的一个项目，虽然有翻译版，但是不太推荐，因为很多内容并不适用于国内）。
+- 介绍: 软件工程技术{ms学习}个人指南（国外的一个项目，虽然有翻译版，但是不太推荐，因为很多内容并不适用于国内）。
 
 ## 算法相关
 
@@ -80,7 +80,7 @@
 
 - Github地址：[https://github.com/Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)
 - star: 6.1k
-- 介绍:  LeetCode 上 Facebook 的面试题目。
+- 介绍:  LeetCode 上 Facebook 的{ms学习}题目。
 
 ### 3.leetcode
 

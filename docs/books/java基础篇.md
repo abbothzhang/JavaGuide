@@ -90,15 +90,15 @@ JVM 这里就先只推荐一本书籍和一个关于 JVM 参数调优的免费�
 
 这本书的第三版去年年底已经出来了，新增了很多实在的内容比如ZGC等新一代GC的原理剖析。目前豆瓣上是 9.6 的高分，🐂不🐂我就不多说了！
 
-不论是你面试还是你想要在 Java 领域学习的更深，你都离不开这本书籍。这本书不光要看，你还要多看几遍，都是干货，里面很多实战内容自己还最好实践一篇。
+不论是你{ms学习}还是你想要在 Java 领域学习的更深，你都离不开这本书籍。这本书不光要看，你还要多看几遍，都是干货，里面很多实战内容自己还最好实践一篇。
 
 这里额外推荐一个你假笨大佬的[《JVM 参数【Memory篇】》](https://club.perfma.com/course/438755/list)教程，很厉害了！
 
 ![](https://imgkr.cn-bj.ufileos.com/74a29a45-b770-4fd5-8480-c46bd72464a9.png)
 
-### 面试
+### {ms学习}
 
-#### 《JavaGuide面试突击版》
+#### 《JavaGuide{ms学习}突击版》
 
 ![](https://imgkr.cn-bj.ufileos.com/c8188444-68ba-4b86-a22e-d3b2bb3565d6.png)
 
@@ -106,7 +106,7 @@ JVM 这里就先只推荐一本书籍和一个关于 JVM 参数调优的免费�
 
 Guide自己开源的，涵盖了Java后端方面的大部分知识点比如 集合、JVM、多线程还有数据库MySQL等内容。
 
-在我的公众号后台回复 ：“**面试突击**”即可免费获取。
+在我的公众号后台回复 ：“**{ms学习}突击**”即可免费获取。
 
 ![我的公众号](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9teS1ibG9nLXRvLXVzZS5vc3MtY24tYmVpamluZy5hbGl5dW5jcy5jb20vMjAxOS02LzE2NzU5OGNkMmUxN2I4ZWMucG5n?x-oss-process=image/format,png)
 

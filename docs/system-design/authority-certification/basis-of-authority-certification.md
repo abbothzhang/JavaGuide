@@ -115,7 +115,7 @@ public String readAllCookies(HttpServletRequest request) {
 
 ## 4.如果没有Cookie的话Session还能用吗？
 
-这是一道经典的面试题！
+这是一道经典的{ms学习}题！
 
 一般是通过 Cookie 来保存 SessionID ，假如你使用了 Cookie 保存 SessionID的方案的话， 如果客户端禁用了Cookie，那么Seesion就无法正常工作。
 

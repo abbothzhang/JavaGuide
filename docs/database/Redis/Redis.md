@@ -1,4 +1,4 @@
-点击关注[公众号](#公众号)及时获取笔主最新更新文章，并可免费领取本文档配套的《Java 面试突击》以及 Java 工程师必备学习资源。
+点击关注[公众号](#公众号)及时获取笔主最新更新文章，并可免费领取本文档配套的《Java {ms学习}突击》以及 Java 工程师必备学习资源。
 
 <!-- TOC -->
 
@@ -343,7 +343,7 @@ public Object getObjectInclNullById(Integer id) {
 
 更多内容可以查看：https://github.com/doocs/advanced-java/blob/master/docs/high-concurrency/redis-consistence.md
 
-**参考：** Java 工程师面试突击第 1 季（可能是史上最好的 Java 面试突击课程）-中华石杉老师！公众号后台回复关键字“1”即可获取该视频内容。
+**参考：** Java 工程师{ms学习}突击第 1 季（可能是史上最好的 Java {ms学习}突击课程）-中华石杉老师！公众号后台回复关键字“1”即可获取该视频内容。
 
 ### 参考
 
@@ -354,7 +354,7 @@ public Object getObjectInclNullById(Integer id) {
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
 
-**《Java 面试突击》:** 由本文档衍生的专为面试而生的《Java 面试突击》V2.0 PDF 版本[公众号](#公众号)后台回复 **"Java 面试突击"** 即可免费领取！
+**《Java {ms学习}突击》:** 由本文档衍生的专为{ms学习}而生的《Java {ms学习}突击》V2.0 PDF 版本[公众号](#公众号)后台回复 **"Java {ms学习}突击"** 即可免费领取！
 
 **Java 工程师必备学习资源:** 一些 Java 工程师常用学习资源公众号后台回复关键字 **“1”** 即可免费无套路获取。
 

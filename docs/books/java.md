@@ -8,14 +8,14 @@
     - [JVM](#jvm)
     - [Java8 新特性](#java8-新特性)
     - [代码优化](#代码优化)
-    - [面试](#面试)
+    - [{ms学习}](#{ms学习})
 - [网络](#网络)
 - [操作系统](#操作系统)
 - [数据结构](#数据结构)
 - [算法](#算法)
     - [入门](#入门)
     - [经典](#经典)
-    - [面试](#面试-1)
+    - [{ms学习}](#{ms学习}-1)
 - [数据库](#数据库)
 - [系统设计](#系统设计)
     - [设计模式](#设计模式)
@@ -66,10 +66,10 @@
 -  **阿里巴巴 Java 开发手册** ：[https://github.com/alibaba/p3c](https://github.com/alibaba/p3c)
 -  **Google Java 编程风格指南：** <http://www.hawstein.com/posts/google-java-style.html>
 
-### 面试
+### {ms学习}
 
-1.  **[《JavaGuide面试突击版》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486324&idx=1&sn=e8b690ddaedabc486bd399310105aad3&chksm=cea244bff9d5cda9a627fa65235be09e7b089e92cf49c0eb0ceb35b39bbed86c1fab0125f5af&token=1745528586&lang=zh_CN&scene=21#wechat_redirect)** ：我的75k+ star的开源项目 [JavaGuide ](https://github.com/Snailclimb/JavaGuide) 转为面试浓缩而成的版本，不光提供了PDF版本（我的公众号JavaGuide后台回复：“面试突击”即可获取），在线阅读版本：[https://snailclimb.gitee.io/javaguide-interview/](https://snailclimb.gitee.io/javaguide-interview/)。
-2. **[《Offer来了：Java面试核心知识点精讲》](https://book.douban.com/subject/34872163/)** : 这本书基本概括了Java程序员面试必备知识点，可以拿来准备Java面试或者夯实基础。不过，我还是更推荐我的 [JavaGuide](https://github.com/Snailclimb/JavaGuide) 和 **[《JavaGuide面试突击版》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486324&idx=1&sn=e8b690ddaedabc486bd399310105aad3&chksm=cea244bff9d5cda9a627fa65235be09e7b089e92cf49c0eb0ceb35b39bbed86c1fab0125f5af&token=1745528586&lang=zh_CN&scene=21#wechat_redirect)**  ，两者配合起来学习，真香！
+1.  **[《JavaGuide{ms学习}突击版》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486324&idx=1&sn=e8b690ddaedabc486bd399310105aad3&chksm=cea244bff9d5cda9a627fa65235be09e7b089e92cf49c0eb0ceb35b39bbed86c1fab0125f5af&token=1745528586&lang=zh_CN&scene=21#wechat_redirect)** ：我的75k+ star的开源项目 [JavaGuide ](https://github.com/Snailclimb/JavaGuide) 转为{ms学习}浓缩而成的版本，不光提供了PDF版本（我的公众号JavaGuide后台回复：“{ms学习}突击”即可获取），在线阅读版本：[https://snailclimb.gitee.io/javaguide-interview/](https://snailclimb.gitee.io/javaguide-interview/)。
+2. **[《Offer来了：Java{ms学习}核心知识点精讲》](https://book.douban.com/subject/34872163/)** : 这本书基本概括了Java程序员{ms学习}必备知识点，可以拿来准备Java{ms学习}或者夯实基础。不过，我还是更推荐我的 [JavaGuide](https://github.com/Snailclimb/JavaGuide) 和 **[《JavaGuide{ms学习}突击版》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486324&idx=1&sn=e8b690ddaedabc486bd399310105aad3&chksm=cea244bff9d5cda9a627fa65235be09e7b089e92cf49c0eb0ceb35b39bbed86c1fab0125f5af&token=1745528586&lang=zh_CN&scene=21#wechat_redirect)**  ，两者配合起来学习，真香！
 
 ## 网络
 
@@ -102,11 +102,11 @@
 - **[《算法导论》](https://book.douban.com/subject/20432061/) （豆瓣评分 9.2，0.4K+人评价）**
 - **[《计算机程序设计艺术（第1卷）》](https://book.douban.com/subject/1130500/)（豆瓣评分 9.4，0.4K+人评价）** 
 
-### 面试
+### {ms学习}
 
-1. **[《剑指Offer》](https://book.douban.com/subject/6966465/)（豆瓣评分 8.3，0.7K+人评价）**这本面试宝典上面涵盖了很多经典的算法面试题，如果你要准备大厂面试的话一定不要错过这本书。《剑指Offer》 对应的算法编程题部分的开源项目解析：[CodingInterviews](https://github.com/gatieme/CodingInterviews)
-2. **[程序员代码面试指南：IT名企算法与数据结构题目最优解（第2版）](https://book.douban.com/subject/30422021/) （豆瓣评分 8.7，0.2K+人评价）** ：题目相比于《剑指 offer》 来说要难很多，题目涵盖面相比于《剑指 offer》也更加全面。全书一共有将近300道真实出现过的经典代码面试题。
-3. **[编程之美](https://book.douban.com/subject/3004255/)（豆瓣评分 8.4，3K+人评价）**：这本书收集了约60道算法和程序设计题目，这些题目大部分在近年的笔试、面试中出现过，或者是被微软员工热烈讨论过。作者试图从书中各种有趣的问题出发，引导读者发现问题，分析问题，解决问题，寻找更优的解法。
+1. **[《剑指Offer》](https://book.douban.com/subject/6966465/)（豆瓣评分 8.3，0.7K+人评价）**这本{ms学习}宝典上面涵盖了很多经典的算法{ms学习}题，如果你要准备大厂{ms学习}的话一定不要错过这本书。《剑指Offer》 对应的算法编程题部分的开源项目解析：[CodingInterviews](https://github.com/gatieme/CodingInterviews)
+2. **[程序员代码{ms学习}指南：IT名企算法与数据结构题目最优解（第2版）](https://book.douban.com/subject/30422021/) （豆瓣评分 8.7，0.2K+人评价）** ：题目相比于《剑指 offer》 来说要难很多，题目涵盖面相比于《剑指 offer》也更加全面。全书一共有将近300道真实出现过的经典代码{ms学习}题。
+3. **[编程之美](https://book.douban.com/subject/3004255/)（豆瓣评分 8.4，3K+人评价）**：这本书收集了约60道算法和程序设计题目，这些题目大部分在近年的笔试、{ms学习}中出现过，或者是被微软员工热烈讨论过。作者试图从书中各种有趣的问题出发，引导读者发现问题，分析问题，解决问题，寻找更优的解法。
 
 ## 数据库
 
@@ -155,14 +155,14 @@
 
 ### 网站架构
 
--  **[《大型网站技术架构：核心原理与案例分析+李智慧》](https://book.douban.com/subject/25723064/)**:这本书我读过，基本不需要你有什么基础啊~读起来特别轻松，但是却可以学到很多东西，非常推荐了。另外我写过这本书的思维导图，关注我的微信公众号：“Java 面试通关手册”回复“大型网站技术架构”即可领取思维导图。
+-  **[《大型网站技术架构：核心原理与案例分析+李智慧》](https://book.douban.com/subject/25723064/)**:这本书我读过，基本不需要你有什么基础啊~读起来特别轻松，但是却可以学到很多东西，非常推荐了。另外我写过这本书的思维导图，关注我的微信公众号：“Java {ms学习}通关手册”回复“大型网站技术架构”即可领取思维导图。
 - **[《亿级流量网站架构核心技术》](https://book.douban.com/subject/26999243/)**：一书总结并梳理了亿级流量网站高可用和高并发原则，通过实例详细介绍了如何落地这些原则。本书分为四部分：概述、高可用原则、高并发原则、案例实战。从负载均衡、限流、降级、隔离、超时与重试、回滚机制、压测与预案、缓存、池化、异步化、扩容、队列等多方面详细介绍了亿级流量网站的架构核心技术，让读者看后能快速运用到实践项目中。
 - **[《从零开始学架构（李运华）》](https://book.douban.com/subject/30335935/)** ： 这本书对应的有一个极客时间的专栏—《从零开始学架构》，里面的很多内容都是这个专栏里面的，两者买其一就可以了。我看了很小一部分，内容挺全面的，是一本真正在讲如何做架构的书籍。
 - **[《架构修炼之道——亿级网关、平台开放、分布式、微服务、容错等核心技术修炼实践》](https://book.douban.com/subject/33389549/)** ：非常喜欢的一本书，对一些知识点比如消息队列、API网管讲解的很好,通俗易懂。
 
 ### 底层
 
-- **[《深入剖析 Tomcat》](https://book.douban.com/subject/10426640/)**：本书深入剖析 Tomcat 4 和 Tomcat 5 中的每个组件，并揭示其内部工作原理。通过学习本书，你将可以自行开发 Tomcat 组件，或者扩展已有的组件。 读完这本书，基本可以摆脱背诵面试题的尴尬。
+- **[《深入剖析 Tomcat》](https://book.douban.com/subject/10426640/)**：本书深入剖析 Tomcat 4 和 Tomcat 5 中的每个组件，并揭示其内部工作原理。通过学习本书，你将可以自行开发 Tomcat 组件，或者扩展已有的组件。 读完这本书，基本可以摆脱背诵{ms学习}题的尴尬。
 - **[《深入理解 Nginx（第 2 版）》](https://book.douban.com/subject/26745255/)**：作者讲的非常细致，注释都写的都很工整，对于 Nginx 的开发人员非常有帮助。优点是细致，缺点是过于细致，到处都是代码片段，缺少一些抽象。
 
 ## 软件设计之道

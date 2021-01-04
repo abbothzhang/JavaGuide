@@ -249,7 +249,7 @@ HelloService helloService;
 
 ## 四 zookeeper宕机与dubbo直连的情况
 
-zookeeper宕机与dubbo直连的情况在面试中可能会被经常问到，所以要引起重视。
+zookeeper宕机与dubbo直连的情况在{ms学习}中可能会被经常问到，所以要引起重视。
 
 在实际生产中，假如zookeeper注册中心宕掉，一段时间内服务消费方还是能够调用提供方的服务的，实际上它使用的本地缓存进行通讯，这只是dubbo健壮性的一种体现。
 

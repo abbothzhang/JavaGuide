@@ -4,7 +4,7 @@
 
 ## 为什么要用 Markdown 写简历？
 
-Markdown 语法简单，易于上手。使用正确的 Markdown 语言写出来的简历不论是在排版还是格式上都比较干净，易于阅读。另外，使用 Markdown 写简历也会给面试官一种你比较专业的感觉。
+Markdown 语法简单，易于上手。使用正确的 Markdown 语言写出来的简历不论是在排版还是格式上都比较干净，易于阅读。另外，使用 Markdown 写简历也会给{ms学习}官一种你比较专业的感觉。
 
 除了这些，我觉得使用 Markdown 写简历可以很方便将其与PDF、HTML、PNG格式之间转换。后面我会介绍到转换方法，只需要一条命令你就可以实现 Markdown 到 PDF、HTML 与 PNG之间的无缝切换。
 
@@ -16,7 +16,7 @@ Markdown 语法简单，易于上手。使用正确的 Markdown 语言写出来�
 
 假如你是内推，如果你的简历没有什么优势的话，就算是内推你的人再用心，也无能为力。
 
-另外，就算你通过了筛选，后面的面试中，面试官也会根据你的简历来判断你究竟是否值得他花费很多时间去面试。
+另外，就算你通过了筛选，后面的{ms学习}中，{ms学习}官也会根据你的简历来判断你究竟是否值得他花费很多时间去{ms学习}。
 
 ## 写简历的两大法则
 
@@ -36,7 +36,7 @@ Markdown 语法简单，易于上手。使用正确的 Markdown 语言写出来�
 - **Benefit：** 如果雇佣你，招聘方会得到什么好处。
 
 ## 项目经历怎么写？
-简历上有一两个项目经历很正常，但是真正能把项目经历很好的展示给面试官的非常少。对于项目经历大家可以考虑从如下几点来写：
+简历上有一两个项目经历很正常，但是真正能把项目经历很好的展示给{ms学习}官的非常少。对于项目经历大家可以考虑从如下几点来写：
 
 1. 对项目整体设计的一个感受
 2. 在这个项目中你负责了什么、做了什么、担任了什么角色
@@ -56,7 +56,7 @@ Markdown 语法简单，易于上手。使用正确的 Markdown 语言写出来�
 
 **开源程序员简历模板**： [https://github.com/geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample)（包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板）
 
-**上述简历模板的改进版本：** [https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/简历模板.md](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/简历模板.md) 
+**上述简历模板的改进版本：** [https://github.com/Snailclimb/Java-Guide/blob/master/{ms学习}必备/简历模板.md](https://github.com/Snailclimb/Java-Guide/blob/master/{ms学习}必备/简历模板.md) 
 
 ## 其他的一些小tips
 

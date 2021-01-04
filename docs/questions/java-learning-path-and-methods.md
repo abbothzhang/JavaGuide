@@ -28,7 +28,7 @@
 
 另外，学习完之后可以看一下下面这几篇文章，检查一下自己的学习情况。这几篇文章不是我吹，可能是全网最具价值的 Java 基础知识总结，毕竟是在我的 JavaGuide开源的，经过了各路大佬以及我的不断完善。
 
-这几篇文章总结的知识点在 Java 后端面试中的出场率也非常高哦！
+这几篇文章总结的知识点在 Java 后端{ms学习}中的出场率也非常高哦！
 
 1. [**Java 基础知识**](https://snailclimb.gitee.io/javaguide/#/docs/java/Java基础知识)
 2. [**Java 基础知识疑难点/易错点**](https://snailclimb.gitee.io/javaguide/#/docs/java/Java疑难点)
@@ -45,17 +45,17 @@
 
 另外，对于 Linux 我们要掌握基本的使用就需要对一些常用命令非常熟悉比如：目录切换命令、目录操作命令、文件的操作命令、压缩或者解压文件的命令等等。推荐一个 Github 上学习 Linux 的开源文档：[《Java 程序员眼中的 Linux》](https://github.com/judasn/Linux-Tutorial "《Java 程序员眼中的 Linux》")
 
-计算机网络方面的学习，我觉得掌握基本的知识就行了，不需要太深究，一般面试对这方面要求也不高，毕竟不是专门做网络的。推荐 **《网络是怎样连接的》** 、**《图解 HTTP》** 这两本书来看，这两本书都属于比较有趣易懂的类型，也适合没有基础的人来看。
+计算机网络方面的学习，我觉得掌握基本的知识就行了，不需要太深究，一般{ms学习}对这方面要求也不高，毕竟不是专门做网络的。推荐 **《网络是怎样连接的》** 、**《图解 HTTP》** 这两本书来看，这两本书都属于比较有趣易懂的类型，也适合没有基础的人来看。
 
 > 我们写程序的都知道一个公式叫做 **“程序设计 = 算法 + 数据结构”**。我们想让我们的网站的地盘更加牢固的话，我觉得数据结构与算法还是很有必要学习的。所以第三步，我推荐可以适当花时间看一下 **数据结构与算法** 但是，同样不做强求！你抽时间一定要补上就行！
 
 ### step 3(可选):数据结构与算法
 
-如果你想进入大厂的话，我推荐你在学习完 Java基础之后，就开始每天抽出一点时间来学习算法和数据结构。为了提高自己的编程能力，你也可以坚持刷 **[Leetcode](https://leetcode-cn.com "Leetcode")**。就目前国内外的大厂面试来说，刷 Leetcode 可以说已经成了不得不走的一条路。
+如果你想进入大厂的话，我推荐你在学习完 Java基础之后，就开始每天抽出一点时间来学习算法和数据结构。为了提高自己的编程能力，你也可以坚持刷 **[Leetcode](https://leetcode-cn.com "Leetcode")**。就目前国内外的大厂{ms学习}来说，刷 Leetcode 可以说已经成了不得不走的一条路。
 
 对于想要入门算法和数据结构的朋友，建议看这两本书 **《算法图解》** 和 **《大话数据结构》**，这两本书虽然算不上很经典的书籍，但是比较有趣，对于刚入门算法和数据结构的朋友非常友好。**《算法导论》** 非常经典，但是对于刚入门的就不那么友好了。
 
-另外，还有一本非常赞的算法书推荐给各位，这本书的名字就叫 **《算法》**，书中的代码都是用 Java 语言编写。这本书的优点太多太多比如它的讲解基础而全面、对阅读者比较友好等等。我觉得这本书唯一的缺点就是太厚了 (小声 BB，可能和作者讲解某些知识点的时候有点啰嗦有关)。除了这本书之外，**《剑指 offer》** 、**《编程珠玑》** 、**《编程之美》** 这三本书都被很多大佬推荐过了，对于算法面试非常有帮助。**《算法之美》** 这本书也非常不错，非常适合闲暇的时候看。
+另外，还有一本非常赞的算法书推荐给各位，这本书的名字就叫 **《算法》**，书中的代码都是用 Java 语言编写。这本书的优点太多太多比如它的讲解基础而全面、对阅读者比较友好等等。我觉得这本书唯一的缺点就是太厚了 (小声 BB，可能和作者讲解某些知识点的时候有点啰嗦有关)。除了这本书之外，**《剑指 offer》** 、**《编程珠玑》** 、**《编程之美》** 这三本书都被很多大佬推荐过了，对于算法{ms学习}非常有帮助。**《算法之美》** 这本书也非常不错，非常适合闲暇的时候看。
 
 > 我们网站的页面搭建需要前端的知识，我们前端也后端的交互也需要前端的知识。所以第四步，我推荐你可以了解一下前端知识，不过不需要学的太精通。自己对与前端知识有了基本的了解之后通过
 
@@ -100,7 +100,7 @@
 
 ### step 7:常用框架
 
-学习 Struts2(可不用学)、**Spring**、**SpringMVC**、**Hibernate**、**Mybatis**、**shiro** 等框架的使用， (可选) 熟悉 **Spring 原理**（大厂面试必备），然后很有必要学习一下 **SpringBoot** ，**学好 SpringBoot 真的很重要**。很多公司对于应届生都是直接上手 **SpringBoot**，不过如果时间允许的话，我还是推荐你把 **Spring**、**SpringMVC** 提前学一下。
+学习 Struts2(可不用学)、**Spring**、**SpringMVC**、**Hibernate**、**Mybatis**、**shiro** 等框架的使用， (可选) 熟悉 **Spring 原理**（大厂{ms学习}必备），然后很有必要学习一下 **SpringBoot** ，**学好 SpringBoot 真的很重要**。很多公司对于应届生都是直接上手 **SpringBoot**，不过如果时间允许的话，我还是推荐你把 **Spring**、**SpringMVC** 提前学一下。
 
 关于 SpringBoot ，推荐看一下笔主开源的 [Spring Boot 教程](https://github.com/Snailclimb/springboot-guide "Spring Boot 教程") （SpringBoot 核心知识点总结。 基于 Spring Boot 2.19+）。
 
@@ -114,7 +114,7 @@
 
 #### [Spring](https://snailclimb.gitee.io/javaguide/#/?id=spring)
 
-1. [Spring 学习与面试](https://snailclimb.gitee.io/javaguide/#/docs/system-design/framework/spring/Spring)
+1. [Spring 学习与{ms学习}](https://snailclimb.gitee.io/javaguide/#/docs/system-design/framework/spring/Spring)
 2. **[Spring 常见问题总结](https://snailclimb.gitee.io/javaguide/#/docs/system-design/framework/spring/SpringInterviewQuestions)**
 3. [Spring中 Bean 的作用域与生命周期](https://snailclimb.gitee.io/javaguide/#/docs/system-design/framework/spring/SpringBean)
 4. [SpringMVC 工作原理详解](https://snailclimb.gitee.io/javaguide/#/docs/system-design/framework/spring/SpringMVC-Principle)
@@ -122,11 +122,11 @@
 
 #### [SpringBoot](https://snailclimb.gitee.io/javaguide/#/?id=springboot)
 
-- **[SpringBoot 指南/常见面试题总结](https://github.com/Snailclimb/springboot-guide)**
+- **[SpringBoot 指南/常见{ms学习}题总结](https://github.com/Snailclimb/springboot-guide)**
 
 #### [MyBatis](https://snailclimb.gitee.io/javaguide/#/?id=mybatis)
 
-- [MyBatis常见面试题总结](https://snailclimb.gitee.io/javaguide/#/docs/system-design/framework/mybatis/mybatis-interview)
+- [MyBatis常见{ms学习}题总结](https://snailclimb.gitee.io/javaguide/#/docs/system-design/framework/mybatis/mybatis-interview)
 
 ### step 8:多线程的简单使用
 
@@ -174,7 +174,7 @@
 
 可以再回来看一下多线程方面的知识，还可以利用业余时间学习一下 **[NIO](https://github.com/Snailclimb/JavaGuide#io "NIO")** 和 **Netty** ，这样简历上也可以多点东西。如果想去大厂，**[JVM](https://github.com/Snailclimb/JavaGuide#jvm "JVM")** 的一些知识也是必学的（**Java 内存区域、虚拟机垃圾算法、虚拟垃圾收集器、JVM 内存管理**）推荐《深入理解 Java 虚拟机：JVM 高级特性与最佳实践（最新第二版》和《实战 Java 虚拟机》，如果嫌看书麻烦的话，你也可以看我整理的文档。
 
-另外，现在微服务特别火，很多公司在面试也明确要求需要微服务方面的知识。如果有精力的话可以去学一下 SpringCloud 生态系统微服务方面的东西。
+另外，现在微服务特别火，很多公司在{ms学习}也明确要求需要微服务方面的知识。如果有精力的话可以去学一下 SpringCloud 生态系统微服务方面的东西。
 
 > **微服务的概念庞大，技术种类也很多，但是目前大型互联网公司广泛采用的，**实话实话这些东西我不在行，自己没有真实做过微服务的项目。不过下面是我自己总结的一些关于微服务比价重要的知识，选学。
 
@@ -235,7 +235,7 @@ Spring Cloud Alibaba也是很值得学习的：
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
 
-**《Java 面试突击》:** 由本文档衍生的专为面试而生的《Java 面试突击》V2.0 PDF 版本[公众号](#公众号 "公众号")后台回复 **"Java 面试突击"** 即可免费领取！
+**《Java {ms学习}突击》:** 由本文档衍生的专为{ms学习}而生的《Java {ms学习}突击》V2.0 PDF 版本[公众号](#公众号 "公众号")后台回复 **"Java {ms学习}突击"** 即可免费领取！
 
 **Java 工程师必备学习资源:** 一些 Java 工程师常用学习资源公众号后台回复关键字 **“1”** 即可免费无套路获取。
 
