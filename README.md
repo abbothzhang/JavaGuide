@@ -375,7 +375,7 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 
 > 这部分很多内容比如大厂面经、真实面经分析被移除，详见[完结撒花！JavaGuide{ms学习}突击版来啦！](./docs/javaguide{ms学习}突击版.md)。
 
-1. **[【备战{ms学习}1】程序员的简历就该这样写](docs/essential-content-for-interview/PreparingForInterview/程序员的简历之道.md)**
+1. **[【备战{ms学习}1】程序员的{jl}就该这样写](docs/essential-content-for-interview/PreparingForInterview/程序员的{jl}之道.md)**
 2. **[【备战{ms学习}2】初出茅庐的程序员该如何准备{ms学习}？](docs/essential-content-for-interview/PreparingForInterview/interviewPrepare.md)**
 3. **[【备战{ms学习}3】7个大部分程序员在{ms学习}前很关心的问题](docs/essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md)**
 4. **[【备战{ms学习}4】Github上开源的Java{ms学习}/学习相关的仓库推荐](docs/essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md)**

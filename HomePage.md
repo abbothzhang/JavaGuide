@@ -174,7 +174,7 @@
 
 ### 备战{ms学习}
 
-* [【备战{ms学习}1】程序员的简历就该这样写](essential-content-for-interview/PreparingForInterview/程序员的简历之道.md)
+* [【备战{ms学习}1】程序员的{jl}就该这样写](essential-content-for-interview/PreparingForInterview/程序员的{jl}之道.md)
 * [【备战{ms学习}2】初出茅庐的程序员该如何准备{ms学习}？](essential-content-for-interview/PreparingForInterview/interviewPrepare.md)
 * [【备战{ms学习}3】7个大部分程序员在{ms学习}前很关心的问题](essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md)
 * [【备战{ms学习}4】Github上开源的Java{ms学习}/学习相关的仓库推荐](essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md)
